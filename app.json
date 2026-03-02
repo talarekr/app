@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Autoszczech Mobile",
+    "slug": "autoszczech-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "platforms": [
+      "ios"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.autoszczech.mobile"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
